@@ -1,0 +1,53 @@
+header.masthead {
+  background: no-repeat center center;
+  background-size: unset;
+  background-attachment: scroll;
+  margin: 1rem 1rem 1rem 2rem;
+  height: 200px;
+}
+
+header.masthead .page-heading,
+header.masthead .post-heading,
+header.masthead .site-heading {
+  color: #fff;
+  background-color: #00000080;
+  border-radius: 4px;
+  text-align: center;
+  text-shadow: 0 0 100px #000;
+  font-family: "Helvetica Neue", "Helvetica", "Arial", "Hiragino Kaku Gothic Pro", "Meiryo", "MS PGothic", sans-serif;
+  font-weight: 600;
+}
+
+article {
+  line-height: 1.6;
+}
+.container {
+  padding-top: 1rem;
+}
+
+.navbar, .navbar a {
+  margin: 0;
+  padding: 2px;
+  color: #fff;
+  background-color: #666666;
+}
+
+article a {
+  color: #fff;
+}
+a {
+  text-decoration-color: rgb(128, 128, 252);
+}
+a:hover, a:focus {
+  color: lightskyblue;
+}
+
+footer {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: 13px;
+}
+
+footer p {
+  color: #bbbbbb;
+}
