@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2023-02-13</lastmod>
+    <lastmod>2023-02-18</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -26,8 +26,16 @@
     <lastmod>2023-02-04</lastmod>
   </url>
   <url>
+    <loc>https://oriba-nenjin.github.io/blog/dutilleux_ainsi_la_nuit.html</loc>
+    <lastmod>2023-02-18</lastmod>
+  </url>
+  <url>
     <loc>https://oriba-nenjin.github.io/blog/eller_lyricsuite.html</loc>
     <lastmod>2023-02-04</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/faure_in_paradisum.html</loc>
+    <lastmod>2023-02-18</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/faure_nocturne2_4.html</loc>
