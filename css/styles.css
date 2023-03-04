@@ -51,3 +51,8 @@ footer {
 footer p {
   color: #bbbbbb;
 }
+
+blockquote {
+  margin-left: 24px;
+  font-size: 0.9rem;
+}
