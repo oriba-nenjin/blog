@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2023-04-02</lastmod>
+    <lastmod>2023-04-10</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -24,6 +24,10 @@
   <url>
     <loc>https://oriba-nenjin.github.io/blog/demoiselles-eissler.html</loc>
     <lastmod>2023-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/dindy_quartet3.html</loc>
+    <lastmod>2023-04-10</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/dutilleux_ainsi_la_nuit.html</loc>
@@ -63,7 +67,7 @@
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/lekeu_vs.html</loc>
-    <lastmod>2023-04-02</lastmod>
+    <lastmod>2023-04-04</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/magnard_vs.html</loc>
