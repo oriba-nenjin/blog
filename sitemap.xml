@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-04-22</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -51,7 +51,11 @@
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/finzi_romance.html</loc>
-    <lastmod>2023-02-04</lastmod>
+    <lastmod>2023-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/jongen_trio.html</loc>
+    <lastmod>2023-04-22</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/kienzl_trio.html</loc>
@@ -59,7 +63,7 @@
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/korngold_quintet.html</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-22</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/larsson_quartets.html</loc>
@@ -75,7 +79,7 @@
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/magnard_vs.html</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-22</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/marx_ballade.html</loc>
@@ -131,11 +135,11 @@
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/vaughanwilliams_quartet2.html</loc>
-    <lastmod>2023-02-04</lastmod>
+    <lastmod>2023-04-22</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/weigl_quartet.html</loc>
-    <lastmod>2023-02-04</lastmod>
+    <lastmod>2023-04-22</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/ysaye_ballade_chopin.html</loc>
