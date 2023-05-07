@@ -56,3 +56,25 @@ blockquote {
   margin-left: 24px;
   font-size: 0.9rem;
 }
+
+.collapsed {
+  display: none !important;
+}
+a.navigator {
+  display:inline-block;
+  background:#6a6a6a;
+  border-radius:2px;
+  padding:4px 8px;
+  margin:5px;
+  text-decoration-color: transparent !important;
+  vertical-align:middle;
+}
+a.navigator:hover {
+  background:#888888;
+}
+.navigator-content {
+  display:inline-block;
+  vertical-align:middle;
+  color:#E0E0E0;
+  font-size:11px;
+}
