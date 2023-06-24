@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2023-06-17</lastmod>
+    <lastmod>2023-06-24</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -99,7 +99,7 @@
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/martin_quintet.html</loc>
-    <lastmod>2023-06-18</lastmod>
+    <lastmod>2023-06-24</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/marx_ballade.html</loc>
@@ -148,6 +148,10 @@
   <url>
     <loc>https://oriba-nenjin.github.io/blog/samazeuilh_trio_suite.html</loc>
     <lastmod>2023-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/schoeck_vs.html</loc>
+    <lastmod>2023-06-24</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/strauss_capriccio.html</loc>
