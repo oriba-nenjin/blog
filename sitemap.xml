@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2023-07-09</lastmod>
+    <lastmod>2023-07-15</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -32,6 +32,10 @@
   <url>
     <loc>https://oriba-nenjin.github.io/blog/dindy_quartet3.html</loc>
     <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/doret_quintet.html</loc>
+    <lastmod>2023-07-15</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/dukas_sonata.html</loc>
