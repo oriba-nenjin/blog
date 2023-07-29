@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-07-29</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -72,6 +72,10 @@
   <url>
     <loc>https://oriba-nenjin.github.io/blog/jongen_trio.html</loc>
     <lastmod>2023-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/juon_litaniae.html</loc>
+    <lastmod>2023-07-30</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/kienzl_trio.html</loc>
