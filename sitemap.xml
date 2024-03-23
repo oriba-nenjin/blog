@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2024-03-18</lastmod>
+    <lastmod>2024-03-23</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -124,6 +124,10 @@
   <url>
     <loc>https://oriba-nenjin.github.io/blog/goetz1.html</loc>
     <lastmod>2024-03-09</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/hiller1.html</loc>
+    <lastmod>2024-03-23</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/howells1.html</loc>
