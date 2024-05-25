@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2024-05-19</lastmod>
+    <lastmod>2024-05-25</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -40,6 +40,10 @@
   <url>
     <loc>https://oriba-nenjin.github.io/blog/beach_vs.html</loc>
     <lastmod>2023-11-07</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/beethoven1.html</loc>
+    <lastmod>2024-05-27</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/bliss1.html</loc>
@@ -331,7 +335,7 @@
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/taneyev1.html</loc>
-    <lastmod>2024-05-19</lastmod>
+    <lastmod>2024-05-25</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/vaughanwilliams2.html</loc>
