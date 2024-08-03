@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oriba-nenjin.github.io/blog/</loc>
-    <lastmod>2024-08-01</lastmod>
+    <lastmod>2024-08-03</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -204,6 +204,10 @@
   <url>
     <loc>https://oriba-nenjin.github.io/blog/korngold2.html</loc>
     <lastmod>2024-06-22</lastmod>
+  </url>
+  <url>
+    <loc>https://oriba-nenjin.github.io/blog/korngold3.html</loc>
+    <lastmod>2024-08-05</lastmod>
   </url>
   <url>
     <loc>https://oriba-nenjin.github.io/blog/korngold_quintet.html</loc>
